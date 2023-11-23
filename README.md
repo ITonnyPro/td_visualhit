@@ -5,3 +5,5 @@
 FiveM Script
 
 Preview -> https://youtu.be/2yJNn3waOqk
+
+Discord -> https://discord.gg/p7Bkd26JZ2
