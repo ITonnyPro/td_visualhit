@@ -1,6 +1,6 @@
 # td_visualhit
 
-![banner](https://github.com/ITonnyPro/td_visualhit/assets/10687575/bd1dd9bd-85e1-4782-b404-cbe7f0d19657)
+![visualhit](https://github.com/ITonnyPro/td_visualhit/assets/10687575/5975ae9f-c280-45b3-b3b6-467874cffa33)
 
 FiveM Script
 
