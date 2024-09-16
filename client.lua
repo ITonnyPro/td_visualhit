@@ -1,13 +1,3 @@
-RegisterCommand('blureffect', function(source)
-    if blur == false then
-        TriggerScreenblurFadeIn(500)
-        blur = true
-    else
-        TriggerScreenblurFadeOut(500)
-        blur = false
-    end
-end, false)
-
 function dump(o)
     if type(o) == 'table' then
        local s = '{ '
